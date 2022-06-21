@@ -12,8 +12,8 @@ Build a COVID-19 tracking app that helps medical doctors, immigration officers a
  - [x] Sprint 1
  - [x] Sprint 2
  - [x] Sprint 3
- - [ ] Sprint 4
- - [ ] Sorint 5
+ - [x] Sprint 4
+ - [x] Sorint 5
 
 
 ## Team Members :technologist:
